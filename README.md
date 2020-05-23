@@ -5,7 +5,7 @@ Material of the paper:
 *Ruben Heradio, David Fernandez-Amoros, Cristina Cerrada, and Manuel J. Cobo*. Machine Learning for Software Engineering: a Bibliometric Analysis from 2015 to 2019. *54th Hawaii International Conference on System Sciences (HICSS), Kauai, Hawaii, US, 2021.*
 
 It includes:
-* Data, in [.bib](https://github.com/rheradio/Machine-Learning-for-Software-Engineering-a-Bibliometric-Analysis-from-2015-to-2019/blob/master/scopus_data/ml_se.bib) and [.ris](https://github.com/rheradio/Machine-Learning-for-Software-Engineering-a-Bibliometric-Analysis-from-2015-to-2019/blob/master/scopus_data/ml_se.ris) formats, gathered from Elsevier Scopus by running the following query:
+* Data, in [.bib](https://github.com/rheradio/ML-SE-BibAnalysis/blob/master/scopus_data/ml_se.bib) and [.ris](https://github.com/rheradio/ML-SE-BibAnalysis/blob/master/scopus_data/ml_se.ris) formats, gathered from Elsevier Scopus by running the following query:
 ```
 TITLE-ABS-KEY("Machine Learning" OR (supervised W/0 learning) 
 OR (unsupervised W/0 learning) OR (Support W/0 Vector W/0 
@@ -67,4 +67,4 @@ OR LIMIT-TO (DOCTYPE , "re"))
 AND (LIMIT-TO (SUBJAREA , "COMP")) 
 AND (LIMIT-TO (LANGUAGE , "English"))
 ```
-* [Results](https://github.com/rheradio/Machine-Learning-for-Software-Engineering-a-Bibliometric-Analysis-from-2015-to-2019/tree/master/report) of the performed bibliometric analysis.
+* [Results](https://github.com/rheradio/ML-SE-BibAnalysis/tree/master/report) of the performed bibliometric analysis.
