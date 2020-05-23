@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="80" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 80 120" height="120" preserveAspectRatio="xMidYMid meet" version="1.0">
+<defs id="defs4">
+<marker refY="0" preserveAspectRatio="xMidYMid meet" id="TriangleOutL" style="overflow:visible" orient="auto" refX="0">
+<path style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z" transform="scale(0.8,0.8)"/>
+</marker>
+</defs>
+<circle fill="#FFFFFF" r="40" cx="40" cy="80" stroke="#000000"/>
+<text x="40" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">54</text>
+</svg>
+

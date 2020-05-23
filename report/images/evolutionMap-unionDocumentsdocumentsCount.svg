@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="210" zoomAndPan="magnify" contentStyleType="text/css" height="329" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<circle fill="url(#sphereTheme)" r="30.0" cx="30" cy="30"/>
+<text x="60.0" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CLASSIFICATION</text>
+<circle fill="url(#sphereTheme)" r="13.648881239242685" cx="30" cy="95"/>
+<text x="43.648881239242684" y="95" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DEFECT-PREDICTION</text>
+<circle fill="url(#sphereTheme)" r="15.154905335628227" cx="30" cy="160"/>
+<text x="45.15490533562823" y="160" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GENETIC-ALGORITHMS</text>
+<circle fill="url(#sphereTheme)" r="12.444061962134253" cx="30" cy="225"/>
+<text x="42.444061962134256" y="225" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TOPIC-MODELING</text>
+<circle fill="url(#sphereTheme)" r="9.776247848537006" cx="30" cy="290"/>
+<text x="39.776247848537004" y="290" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SECURITY</text>
+</svg>
+

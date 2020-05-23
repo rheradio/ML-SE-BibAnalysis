@@ -1,0 +1,7 @@
+*Vertices 5
+1 "Per0_0_CLASSIFICATION" 0.0100 0.0100 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+2 "Per0_1_DEFECT-PREDICTION" 0.0100 0.2100 0.5000 ic Blue bc Blue x_fact 9.0 y_fact 9.0
+3 "Per0_2_GENETIC-ALGORITHMS" 0.0100 0.4100 0.5000 ic Blue bc Blue x_fact 8.0 y_fact 8.0
+4 "Per0_3_TOPIC-MODELING" 0.0100 0.6100 0.5000 ic Blue bc Blue x_fact 8.0 y_fact 8.0
+5 "Per0_4_SECURITY" 0.0100 0.8100 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+*edges
